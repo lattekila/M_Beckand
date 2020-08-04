@@ -3,3 +3,4 @@ M_Beckand.csproj
 M_Beckand.csproj.user
 obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 obj/Debug/M_Beckand.csprojAssemblyReference.cache
+*.cache
